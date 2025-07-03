@@ -2,7 +2,6 @@ import Hamburger from "@/components/Hamburger";
 import Profile from "@/components/Profile";
 
 import Wall from "@/components/Wall";
-import {Menu} from "lucide-react";
 import React from "react";
 
 export default function HomePage() {

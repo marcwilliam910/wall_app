@@ -1,6 +1,6 @@
 "use client";
 import {supabase} from "@/lib/supabase";
-import React, {ReactEventHandler, useEffect, useState} from "react";
+import React, {useEffect, useState} from "react";
 import {Button} from "./ui/button";
 import PostCard from "./PostCard";
 import {LoaderCircle} from "lucide-react";
